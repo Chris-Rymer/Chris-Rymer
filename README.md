@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-rymer/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b> Active Directory Home Lab</b>
+  - [Active Directory Home Lab](https://github.com/chris-rymer/CHANGEME)
+
+<h2>📄 Certifications:</h2>
+
+- [CompTIA A+](https://imgur.com/a/UASWytD)
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/ENFBCVRENK6E)
+- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/a9e4ac82fc60432596474550a0e88e4a)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/chris-rymer/
 
 <!--
 **Chris-Rymer/Chris-Rymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

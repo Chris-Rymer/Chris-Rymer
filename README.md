@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/chris-rymer/CHANGEME)
+- [Active Directory Home Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
 
 <h2>📄 Certifications:</h2>
 

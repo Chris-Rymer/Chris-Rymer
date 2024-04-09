@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
-- [Azure Sentinel (SIEM) Honeypot Attack Map Cloud Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
+- [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
+- [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
 
 <h2>📄 Certifications:</h2>
 

@@ -4,6 +4,7 @@
 
 - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
 - [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
+- [Phishing Email Investigation](https://github.com/Chris-Rymer/Phishing-Email)
 
 <h2>📄 Certifications:</h2>
 

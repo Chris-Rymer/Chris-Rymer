@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
-- [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
-- [Phishing Email Investigation](https://github.com/Chris-Rymer/Phishing-Email)
-- [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
-
+- <b>Labs</b>
+  - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
+  - [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
+  - [Phishing Email Investigation](https://github.com/Chris-Rymer/Phishing-Email)
+  - [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
+- <b>Python</b>
+  - [IPv4 Port Scanning Tool)](https://github.com/Chris-Rymer/portScanner)
 
 <h2>📄 Certifications:</h2>
 

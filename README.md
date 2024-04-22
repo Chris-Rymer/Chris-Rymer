@@ -8,7 +8,7 @@
   - [Phishing Email Investigation](https://github.com/Chris-Rymer/Phishing-Email)
   - [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
 - <b>Python</b>
-  - [IPv4 Port Scanning Tool)](https://github.com/Chris-Rymer/portScanner)
+  - [IPv4 Port Scanning Tool](https://github.com/Chris-Rymer/portScanner)
 
 <h2>📄 Certifications:</h2>
 

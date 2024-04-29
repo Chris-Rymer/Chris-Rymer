@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-rymer/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-rymer/">IT and Security Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects and Home Labs:</h2>
 
 - <b>Labs</b>
   - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)

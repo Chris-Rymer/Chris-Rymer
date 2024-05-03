@@ -5,7 +5,7 @@
 - <b>Home Labs</b>
   - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
   - [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
-  - [Phishing Email Investigation](https://github.com/Chris-Rymer/Phishing-Email)
+  - [Detecting Phishing Emails](https://github.com/Chris-Rymer/Phishing-Email)
   - [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
 - <b>Projects</b>
   - [My Home Network Diagram](https://github.com/Chris-Rymer/Network-Diagram)

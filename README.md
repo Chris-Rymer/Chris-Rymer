@@ -1,14 +1,14 @@
 <h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-rymer/">IT and Security Enthusiast</a></h1>
 
-<h2>👨‍💻 Home Labs and Projects:</h2>
+<h2>👨‍💻 Projects and Home Labs:</h2>
 
+- <b>Projects</b>
+  - [My Home Network Diagram](https://github.com/Chris-Rymer/Network-Diagram)
 - <b>Home Labs</b>
   - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
   - [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
   - [Detecting Phishing Emails](https://github.com/Chris-Rymer/Phishing-Email)
   - [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
-- <b>Projects</b>
-  - [My Home Network Diagram](https://github.com/Chris-Rymer/Network-Diagram)
 - <b>Python</b>
   - [IPv4 Port Scanning Tool](https://github.com/Chris-Rymer/portScanner)
 <h2>📄 Certifications:</h2>

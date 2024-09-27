@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Projects and Home Labs:</h2>
 
-- <b>Projects</b>
+- <b>Home Projects</b>
   - [My Home Network Diagram](https://github.com/Chris-Rymer/Network-Diagram)
-- <b>Home Labs</b>
+- <b>Cyber Defense Labs</b>
+  - [Detecting Kerberoasting](https://github.com/Chris-Rymer/Kerberoasting)
   - [Active Directory Lab](https://github.com/Chris-Rymer/ActiveDirectoryLab)
-  - [Azure Sentinel (SIEM) Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
+  - [Azure Sentinel Honeypot Attack Map Lab](https://github.com/Chris-Rymer/Azure-Sentinel-Lab/)
   - [Detecting Phishing Emails](https://github.com/Chris-Rymer/Phishing-Email)
   - [Detecting Web Attacks](https://github.com/Chris-Rymer/Detecting-Web-Attacks)
 - <b>Python</b>

@@ -14,12 +14,13 @@
 <h2>📄 Certifications:</h2>
 
 - [CompTIA A+](https://imgur.com/a/UASWytD)
+- [CompTIA N+](https://imgur.com/3MiCImD)
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/ENFBCVRENK6E)
 - [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/a9e4ac82fc60432596474550a0e88e4a)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChrisRymer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/chris-rymer/
 
